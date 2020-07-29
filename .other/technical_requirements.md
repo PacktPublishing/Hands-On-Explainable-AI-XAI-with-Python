@@ -53,8 +53,8 @@ on your local machine.
 **\*Note**: This isn't an exhaustive list of all the packages required
 to run the codes in this book, but only the essential and most commonly
 used packages in the book. You will likely encounter some more required
-packages as you read through the book, which you can install using pip
-or conda.
+packages as you read through the book, which you can install using `pip`
+or `conda`.
 
 **Additional requirement**
 ==========================
