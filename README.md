@@ -3,7 +3,7 @@ This is the code repository for [Hands-On Explainable AI (XAI) with Python](http
 
 * **Paperback**: 454 pages
 * **ISBN-13**: 9781800208131
-* **Date Of Publication**: 21 July 2020
+* **Date Of Publication**: 31 July 2020
 
 [<img src="./.other/cover.png" width="248">](https://www.amazon.com/Hands-Explainable-XAI-Python-trustworthy-ebook/dp/B08DHYYHSZ/)
 
